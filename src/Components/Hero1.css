@@ -1,0 +1,36 @@
+.hero1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 200px;
+    height: 70vh;
+    width: auto;
+    
+}
+.left{
+    margin: 40px 0 0 100px;
+}
+.right{
+    text-align: left;
+    width: 450px;
+    margin: auto 0;
+    margin-right: 100px;
+
+}
+.paragraph{
+    font-size: 14px;
+    text-align: justify;
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
+.hero1-link{
+    text-decoration: none;
+    color: #0070BA;
+    font-weight: 600;
+    font-size: 14px;
+}
+.hero1-link:hover{
+    text-decoration: underline;
+}

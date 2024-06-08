@@ -1,0 +1,28 @@
+.hero2{
+    height: 300px;
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.text{
+    position: absolute;
+    left: 10%;
+    bottom: 5%;
+    text-align: left;
+    width: 400px;
+    color: #fff;
+}
+.text p{
+    font-size: 14px;
+}
+.text .link{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+.text .link:hover{
+    text-decoration: underline;
+
+}

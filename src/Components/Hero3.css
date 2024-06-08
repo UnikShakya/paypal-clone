@@ -1,0 +1,27 @@
+.hero3 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    background-color: #013187; 
+  }
+  
+  .hero3-text {
+    color: #fff;
+    width: 600px;
+    text-align: center;
+    margin-top: 140px;
+  }
+  .hero3-text h3{
+    font-weight: lighter;
+  }
+  .hero3-text .link{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bolder;
+  }
+  .hero3-text .link:hover{
+    text-decoration: underline;
+
+  }
+  

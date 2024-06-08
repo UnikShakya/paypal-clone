@@ -1,0 +1,24 @@
+.hero5{
+    background-color: #F6F9FA;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-content{
+    margin-top: 100px;
+}
+.hero5 button{
+    background-color: #0070BA;
+    height: 45px;
+    width: 320px;
+    border-radius: 40px;
+    border: solid 1px #fff;
+    color: #fff;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-size: 14px;  
+}
+.hero5 button:hover{
+    background-color: #025EA6;
+}

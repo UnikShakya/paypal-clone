@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+    line-height: 35px;
+
+    
+}
+.head_mid{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 12px;
+    gap: 80px;
+    font-weight: 700;
+    font-size: 14px;    
+    cursor: pointer;
+}
+.head_mid p:hover{
+    border-bottom: #0287e0;
+}
+.btn-login{
+    background-color: #fff;
+    height: 35px;
+    width: 80px;
+    border-radius: 40px;
+    border: solid 1px #0070BA;
+    color: #0070BA;
+    font-weight: bolder;
+    font-size: 12px;    
+}
+.btn-signin{
+    background-color: #0070BA;
+    height: 35px;
+    width: 80px;
+    border-radius: 40px;
+    border: solid 1px #fff;
+    color: #fff;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-size: 12px;   
+    margin-left: 5px;
+}
+.btn-signin:hover{
+    background-color: #025EA6;
+    
+}

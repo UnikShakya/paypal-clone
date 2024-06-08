@@ -1,0 +1,11 @@
+.aboutus{
+    margin: 30px auto 70px auto;
+    width: 70%;
+}
+.aboutus-head{
+    font-weight: lighter;
+}
+.aboutus-text{
+    font-size: 14px;
+    font-weight: 500;
+}
